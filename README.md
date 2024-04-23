@@ -2,7 +2,7 @@
 
 Second-year CS student @ UC Irvine.
 
-Mostly developing frontend
+Mainly developing frontend, hope to gain more full stack/backend experience.
 
 Connect me on [Linkedln](https://www.linkedin.com/in/bowenwang0815/)
 
