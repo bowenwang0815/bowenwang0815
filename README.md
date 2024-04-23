@@ -1,7 +1,9 @@
 ### Hi, My name is Bowen 🤓
 
 Second-year CS student @ UC Irvine.
+
 Mostly developing frontend
+
 Connect me on [Linkedln](https://www.linkedin.com/in/bowenwang0815/)
 
 ### 💻
