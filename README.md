@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Bowen Wang
+# 👋 Hello, I'm Bowen Wang
 
 I'm a full stack developer and third-year student at UC Irvine, studying Computer Science and Business Information Management. I enjoy building real-world apps, working on nonprofit tech projects, and exploring AI and data-driven systems.
 
 - 🌱 Currently building tools for nonprofits @ Commit the Change
-- 💻 Personal Website ->[bowenw.com](https://www.bowenw.com)
+- 💻 Personal Website ->[bowenshen.wang](https://www.bowenshen.wang)
 - 📊 Interested in full stack, AI, and data applications
 - 🏀 In my free time, I play basketball, go to concerts, eating yummy food!
 
